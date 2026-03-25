@@ -1,4 +1,4 @@
-## Hi, I'm Joan 👋
+# Hi, I'm Joan 👋
 
 🎯 Aspiring Data Engineer / Backend Developer / Software Engineer  
 🎓 MSc in Information Systems for Business Performance (University College Cork)
