@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I'm Joan 👋
 
-<!--
-**Joanwind/Joanwind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Engineer / Backend Developer / Software Engineer  
+🎓 MSc in Information Systems for Business Performance (University College Cork)
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Master's graduate with hands-on experience in **Python, SQL, and backend web development**.  
+I have built data-driven applications including **RAG systems and full-stack web apps**, with a strong interest in **data engineering and scalable backend systems**.
+
+I enjoy working with data pipelines, databases, and APIs to turn raw data into meaningful insights.
+
+## 🛠 Tech Stack
+
+**Languages:**  
+Python, SQL (PostgreSQL, MySQL), HTML/CSS  
+
+**Backend & Tools:**  
+Flask, REST APIs, Docker, Git/GitHub  
+
+**Data:**  
+Data Modelling (ERD, 3NF), Analytical SQL, ETL concepts  
+
+**Visualisation:**  
+Chart.js, Tableau  
+
+**Cloud:**  
+Render, cloud data fundamentals  
+
+## 📈 Currently Learning
+
+- Data Engineering (ETL pipelines, data workflows)  
+- Advanced SQL & query optimisation  
+- System design fundamentals  
