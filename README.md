@@ -34,8 +34,8 @@ Looker Studio, Tableau, Chart.js
 
 ## 📈 Currently Learning
 
-• Advanced Data Engineering with Airflow, dbt and BigQuery
-• Cloud Data Warehousing and Analytics Engineering
-• Advanced SQL Performance Optimisation
-• Distributed Data Processing Fundamentals
+- Advanced Data Engineering with Airflow, dbt and BigQuery
+- Cloud Data Warehousing and Analytics Engineering
+- Advanced SQL Performance Optimisation
+- Distributed Data Processing Fundamentals
 
